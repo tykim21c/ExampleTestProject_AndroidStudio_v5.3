@@ -24,7 +24,7 @@ import android.provider.LiveFolders;
 
 public class NotesLiveFolder extends Activity {
     /**
-     * The URI for the Notes Live Folder content provider.
+     * The URI for the Notes Live Folder content provider.1
      */
     public static final Uri CONTENT_URI = Uri.parse("content://"
             + NotePad.AUTHORITY + "/live_folders/notes");
