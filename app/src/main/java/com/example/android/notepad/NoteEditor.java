@@ -71,7 +71,7 @@ public class NoteEditor extends Activity {
     private Uri mUri;
     private Cursor mCursor;
     private EditText mText;
-    private String mOriginalContent;
+    private String mOriginalContent;//
 
     /**
      * A custom EditText that draws lines between each line of text that is displayed.

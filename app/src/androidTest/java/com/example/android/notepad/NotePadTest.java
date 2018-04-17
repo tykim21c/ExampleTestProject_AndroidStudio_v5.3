@@ -27,6 +27,7 @@ public class NotePadTest extends ActivityInstrumentationTestCase2<NotesList>{
         //
         //
         //
+        //
 
     }
 
