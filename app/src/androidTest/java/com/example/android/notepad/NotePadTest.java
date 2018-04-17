@@ -27,7 +27,7 @@ public class NotePadTest extends ActivityInstrumentationTestCase2<NotesList>{
         //
         //
         //master1
-
+        //
     }
 
     @Override
