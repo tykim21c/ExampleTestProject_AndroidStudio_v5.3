@@ -24,6 +24,7 @@ public class NotePadTest extends ActivityInstrumentationTestCase2<NotesList>{
 
     public NotePadTest() {
         super(NotesList.class);
+        //
 
     }
 
